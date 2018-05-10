@@ -17,9 +17,7 @@ include:
     - [策略模式](https://github.com/Angelswen/programming-learning-action/tree/master/Java/DesignPattern/StrategyPattern)
     - [模板模式](https://github.com/Angelswen/programming-learning-action/tree/master/Java/DesignPattern/TemplatePattern)
  
-   - 排序算法
-   
-     - [排序算法合集](https://github.com/Angelswen/programming-learning-action/tree/master/Java/sortAlgorithm)
+   - 排序算法:[排序算法合集](https://github.com/Angelswen/programming-learning-action/tree/master/Java/sortAlgorithm)
 - the learning example of Python
   - 入门：
     - [孪生素数](https://github.com/Angelswen/programming-learning-action/tree/master/Python)
