@@ -18,8 +18,6 @@ include:
     - [模板模式](https://github.com/Angelswen/programming-learning-action/tree/master/Java/DesignPattern/TemplatePattern)
 - the learning example of Python
   - 入门：
-    - [孪生素数]()
-    - [日期判断]()
-  - 进阶：
-    - [简单基于UPD密码验证]
+    - [孪生素数](https://github.com/Angelswen/programming-learning-action/tree/master/Python)
+    - [日期判断](https://github.com/Angelswen/programming-learning-action/tree/master/Python)
 - the learning example of Golang
